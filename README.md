@@ -50,3 +50,5 @@ t,f,t
 
 
 ### RESULT: 
+
+Hence , Generating Association Rules for Employee dataset using Apriori Algorithm has been done successfully
